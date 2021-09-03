@@ -1,0 +1,15 @@
+Marco Lancellotti:boolean:  13:10
+@qui
+Ciao ragazzi,
+esercizio di oggi: (insicurissimo) password generator
+nome repo: js-pwdgen-wannabe
+STEP:
+Chiedi all’utente il suo nome,
+poi chiedi il suo cognome,
+poi chiedi il suo colore preferito
+Infine scrivi sulla pagina nomecognomecolorepreferito21
+consigli:
+utilizziamo il console.log per verificare che il foglio JS sia connesso correttamente;
+Analizziamo pensando "in italiano" agli step che dobbiamo affrontare
+sfruttiamo sempre il console.log man mano che procediamo negli step per assicurarci che fino a quel punto tutto funziona come vorremmo
+Buon lavoro!
